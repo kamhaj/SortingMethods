@@ -1,6 +1,6 @@
 ## Sorting algorithms:
 
-# bubble_sort
+# bubble sort
 # merge sort
 # heap sort
 # quick sort
